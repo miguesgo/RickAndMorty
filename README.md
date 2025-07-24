@@ -19,6 +19,7 @@ You'll need Visual Studio (in my case I used the 2022 version), .NET 8.0 install
 ### Folder Structure
 Data
   - ApplicationDbContext (DbContext)
+
 Model
   - Character (Entity - Model - DTO)
   - Chracter Controller (Controller)
