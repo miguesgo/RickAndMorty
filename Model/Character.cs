@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace RickAndMorty.Character
+namespace RickAndMorty.Model
 {
     public class Character
     {
